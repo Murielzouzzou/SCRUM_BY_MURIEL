@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Scrum à l’Agirc-Arrco – par Muriel</title>
+<style>
+body {
+font-family: 'Segoe UI', sans-serif;
+margin: 0;
+padding: 0;
+background-color: #fef6f9;
+color: #333;
+line-height: 1.6;
+}
+
+header {
+background-color: #ffd6e0;
+padding: 2em 1em;
+text-align: center;
+color: #4a4a4a;
+border-bottom: 3px solid #f9b3c9;
+}
+
+header h1 {
+margin: 0;
+font-size: 2em;
+}
+
+.container {
+max-width: 900px;
+margin: auto;
+padding: 2em;
+}
+
+.bloc {
+background-color: #fff;
+padding: 2em;
+margin-bottom: 2em;
+border-radius: 12px;
+box-shadow: 0 4px 12px rgba(255, 182, 193, 0.2);
+}
+
+h2 {
+color: #c24f73;
+}
+
+ul {
+list-style: none;
+padding-left: 1.2em;
+}
+
+ul li::before {
+content: "💠 ";
+margin-right: 0.5em;
+}
+
+img {
+max-width: 100%;
+border-radius: 10px;
+margin-top: 1em;
+}
+
+.quote {
+font-style: italic;
+color: #666;
+border-left: 4px solid #f9b3c9;
+padding-left: 1em;
+margin-top: 1em;
+}
+
+.footer {
+text-align: center;
+font-size: 0.85em;
+color: #999;
+margin-top: 4em;
+}
+
+a {
+color: #b2456e;
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>🌸 L’Agilité Scrum à l’Agirc-Arrco</h1>
+<p>Mon expérience en alternance – par Muriel</p>
+</header>
+
+<div class="container">
+
+<div class="bloc">
+<h2>🧩 Problématique</h2>
+<p>Comment s’applique le cadre de travail Scrum au sein de mon alternance à l’Agirc-Arrco ?</p>
+<p>Est-ce que j’arrive à reconnaître les traces de l’agilité Scrum dans mon quotidien ?</p>
+</div>
+
+<div class="bloc">
+<h2>🎯 Scrum, c’est quoi ?</h2>
+<p>Scrum est une méthode Agile très utilisée pour gérer des projets techniques, en s’appuyant sur la collaboration et l’adaptation continue.</p>
+<ul>
+<li>Mêlées régulières (daily meetings)</li>
+<li>Organisation en sprints</li>
+<li>Backlog priorisé (suivi dans Jira)</li>
+<li>Livraison continue de valeur</li>
+</ul>
+<p>À l’Agirc-Arrco, nous avons des mêlées les lundis et mercredis à 9h15. Chacun partage son avancée, ses blocages et ses besoins. Le Scrum Master (mon tuteur Didier) veille à la transparence et à la mise à jour des outils Jira.</p>
+
+</div>
+
+<div class="bloc">
+<h2>📌 Les 3 piliers Scrum</h2>
+<h3>1. Transparence</h3>
+<p>Les spécifications fonctionnelles (cahiers des charges) sont partagées sur Confluence, permettant à tous de comprendre le besoin.</p>
+
+<h3>2. Inspection</h3>
+<p>Les livrables (mes requêtes SQL) sont testés par l’équipe de qualification avant mise en production.</p>
+
+<h3>3. Adaptation</h3>
+<p>Quand les utilisateurs demandent des évolutions ou quand une anomalie est détectée, je mets à jour les requêtes et je relivre.</p>
+</div>
+
+<div class="bloc">
+<h2>👥 Les rôles dans mon équipe Scrum</h2>
+<ul>
+<li><strong>Scrum Master :</strong> Didier Perras, mon tuteur – il coordonne, anime, et vérifie le respect des règles Scrum</li>
+<li><strong>Product Owner :</strong> fait le lien avec les utilisateurs</li>
+<li><strong>Équipe de développement :</strong> moi ! Je conçois les solutions techniques</li>
+</ul>
+</div>
+
+<div class="bloc">
+<h2>🔁 Les cérémonies que j’ai vécues</h2>
+<ul>
+<li>Daily meetings</li>
+<li>Sprint planning</li>
+<li>Rétrospectives</li>
+</ul>
+<div class="quote">
+« L’agilité, c’est savoir s’adapter avec le sourire, tout en gardant le cap technique. »
+</div>
+</div>
+
+<div class="bloc">
+<h2>🔗 Inspirations et ressources</h2>
+<ul>
+<li><a href="https://www.scrum.org/resources/what-is-scrum" target="_blank">Scrum.org – What is Scrum?</a></li>
+<li><a href="https://www.atlassian.com/fr/agile/scrum" target="_blank">Atlassian – Guide Scrum</a></li>
+<li>Mon expérience professionnelle chez Agirc-Arrco</li>
+</ul>
+</div>
